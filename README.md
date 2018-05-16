@@ -1,0 +1,3 @@
+# CanWeGetAQuarterNote
+
+Trying to identify quarternotes from dot info from stroke files...
